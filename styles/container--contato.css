@@ -67,7 +67,7 @@
 
 .container__contato .container__contato--form .container__contato--inputs input,
 .container__contato .container__contato--form .container__contato--inputs textarea {
-    border-radius: 2,5rem;
+    border-radius: 2.5rem;
     padding: 1.6rem;
     border: none;
     font-size: 1.5rem;
@@ -92,12 +92,6 @@
     font-size: 2.4rem;
     background: var(--azul-botao);
     font-weight: 600;
-}
-
-.container__contato .container__contato--form button:hover {
-    background: var(--lilas-escuro);
-    transition: .5s;
-    cursor: pointer;
 }
 
 @media screen and (min-width: 768px) {
